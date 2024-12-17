@@ -4,7 +4,7 @@ This project explores the Netflix dataset to uncover insights about its content 
 
 ## 📂 Dataset
 - The dataset contains the following columns:
-`show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `genres`, `description`
+`show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
 ## 📊 Analysis Highlights
 Key questions explored:
