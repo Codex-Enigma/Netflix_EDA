@@ -1,6 +1,6 @@
 # Netflix EDA Project
 <img src="![images](https://github.com/user-attachments/assets/aa4701ad-864a-46cd-953b-2c8073020778)
-" alt="Netflix EDA Chart" width="800"/>
+" alt="Netflix EDA Chart" width="500"/>
 
 This project explores the Netflix dataset to uncover insights about its content library, trends, and patterns. It includes data cleaning, visualization, and analysis using Python libraries.
 
