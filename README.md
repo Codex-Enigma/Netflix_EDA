@@ -16,9 +16,6 @@ Key questions explored:
 - **Python**: pandas, numpy, matplotlib, seaborn
 - Jupyter Notebook
 
-## 🖼️ Sample Visualizations
-- *(Add or link screenshots of some key charts)*
-
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
