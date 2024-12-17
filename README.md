@@ -56,7 +56,7 @@ In this exploratory data analysis (EDA), we've analyzed several key aspects of N
 ### Technologies Used:
 - **Python**: For data analysis, preprocessing, and visualization.
 - **Libraries**: 
-  - **Numpy**, **Pandas**: For data manipulation and cleaning.
+  -  **Pandas**: For data manipulation and cleaning.
   - **Matplotlib**, **Seaborn**: For data visualization and graph creation.
 - **Jupyter Notebook**: For running the analysis and documenting the process.
 
