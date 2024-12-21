@@ -39,7 +39,6 @@ This project explores the Netflix dataset to uncover insights about its content 
 ## Why This Project Matters:
 - **Content Strategy Insights**: This project provides valuable insights into Netflix's content strategies and highlights opportunities to diversify its catalog by adding more TV shows.
 - **Consumer Behavior Understanding**: By analyzing viewing patterns, genre preferences, and themes, the project uncovers deeper knowledge of user behavior and can help Netflix tailor its content to meet evolving viewer demands.
-- **Proficiency in Data Science**: Demonstrates expertise in **data cleaning**, **exploratory analysis**, and **visualization** to gain actionable insights from large datasets.
 
 ---
 
