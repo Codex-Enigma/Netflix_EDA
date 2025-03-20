@@ -18,11 +18,11 @@ Below are some of the key dashboards created during the analysis:
 ### Dashboard 2 - Content Analysis
 ![Dashboard 2](Images/ContentGrowthAnalysis.png)
 
-### Dashboard 3 - Additional Insights
-![Dashboard 3](Images/Actors & Titles by Country.png)
+### Dashboard 3 - Actor and Country Wise
+![Dashboard 3](ActorTitlesbyCountry.png)
 
-### Dashboard 4
-![Dashboard 4](Images/Genre & Time Trends.png)
+### Dashboard 4 - Genre Time Trends
+![Dashboard 4](Images/GenreTimeTrends.png)
 
 ## 🔗 View the Live Dashboard
 👉 [Click here to explore the interactive dashboard](https://public.tableau.com/app/profile/pranay.mody/viz/Netflix_17424130237480/NetflixStory)
