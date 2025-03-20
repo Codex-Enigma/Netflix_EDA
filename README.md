@@ -19,7 +19,7 @@ Below are some of the key dashboards created during the analysis:
 ![Dashboard 2](Images/ContentGrowthAnalysis.png)
 
 ### Dashboard 3 - Actor and Country Wise
-![Dashboard 3](ActorTitlesbyCountry.png)
+![Dashboard 3](Images/ActorTitlesbyCountry.png)
 
 ### Dashboard 4 - Genre Time Trends
 ![Dashboard 4](Images/GenreTimeTrends.png)
