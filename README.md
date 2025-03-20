@@ -8,6 +8,24 @@ This project explores the Netflix dataset to uncover insights about its content 
 `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
 ## Key Highlights:
+## 📊 Netflix Dashboard Snapshots
+
+Below are some of the key dashboards created during the analysis:
+
+### Dashboard 1 - Introduction Overview
+![Dashboard 1](Images/Introduction.png)
+
+### Dashboard 2 - Content Analysis
+![Dashboard 2](Images/Content Growth Analysis.png)
+
+### Dashboard 3 - Additional Insights
+![Dashboard 3](Images/Actors & Titles by Country.png)
+
+### Dashboard 4
+![Dashboard 4](Images/Genre & Time Trends.png)
+
+## 🔗 View the Live Dashboard
+👉 [Click here to explore the interactive dashboard](https://public.tableau.com/app/profile/pranay.mody/viz/Netflix_17424130237480/NetflixStory)
 
 ### Data Cleaning and Preprocessing:
 - **Rigorous cleaning process** to ensure data accuracy and integrity.
